@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_3/widgets/expense/expense_text.dart';
+import 'package:flutter_application_3/widgets/expense/text.dart';
 
 class TitleAndAmount extends StatelessWidget {
   const TitleAndAmount({super.key, required this.title, required this.amount});
