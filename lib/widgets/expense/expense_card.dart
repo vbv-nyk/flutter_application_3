@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_3/widgets/expense_date_time.dart';
-import 'package:flutter_application_3/widgets/expense_title_amount.dart';
+import 'package:flutter_application_3/widgets/expense/expense_date_time.dart';
+import 'package:flutter_application_3/widgets/expense/expense_title_amount.dart';
 import 'package:intl/intl.dart';
 
 class ExpenseCard extends StatelessWidget {
